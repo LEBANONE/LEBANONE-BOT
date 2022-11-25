@@ -29,7 +29,7 @@
 </a>
 
 ### ✅ GATABOT OFICIAL
-<a href="http://wa.me/593993684821?text=.menu" target="blank"><img src="https://img.shields.io/badge/1️⃣_𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />![e55289088045762c6149ff637b6ff4f2](https://user-images.githubusercontent.com/82735720/204061685-ab1cd9fb-b4f3-4b3a-8dab-b3f184f91d3e.jpg)
+<a href="http://wa.me/393271166550?text=hi" target="blank"><img src="https://img.shields.io/badge/YUNA-MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />![e55289088045762c6149ff637b6ff4f2](https://user-images.githubusercontent.com/82735720/204061685-ab1cd9fb-b4f3-4b3a-8dab-b3f184f91d3e.jpg)
 </a>
 
 ### 💖 ```DONAR``` [`Aquí`](https://paypal.me/OficialGD)
