@@ -22,14 +22,11 @@
 </a>
 
 ### ❇️ GRUPOS OFICIALES
-<a href="https://chat.whatsapp.com/CnsAvjHUhMw1D8y0OcfkIY" target="blank"><img src="https://img.shields.io/badge/1️⃣_COMUNIDAD_GATADOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/CdiITbXO2kdGLWBVAdqfCS" target="blank"><img src="https://img.shields.io/badge/2️⃣_COMUNIDAD_GATADOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/Fd1wp2c3KCG7bHybanoXbR" target="blank"><img src="https://img.shields.io/badge/3️⃣_COMUNIDAD_GATADOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/G0A7GMhlyAZ2b7JVEoz1Zy" target="blank"><img src="https://img.shields.io/badge/4️⃣_COMUNIDAD_GATADOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/JHTDXPLoW29I1rxGYnLmmH" target="blank"><img src="https://img.shields.io/badge/5️⃣_COMUNIDAD_GATADOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+<a href="https://chat.whatsapp.com/KSgHcPpZiXV7fMAscoptfw" target="blank"><img src="https://img.shields.io/badge/1️⃣_COMUNIDAD_GATADOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/IxeB9yBYrNp85CLmKykmMM" target="blank"><img src="https://img.shields.io/badge/2️⃣_COMUNIDAD_GATADOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### ✅ GATABOT OFICIAL
+</a> 
+ ### ✅ GATABOT OFICIAL
 <a href="http://wa.me/+213 674 23 4020" target="blank"><img src="https://img.shields.io/badge/YUNA-MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
