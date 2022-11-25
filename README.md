@@ -30,17 +30,8 @@
 <a href="http://wa.me/+213 674 23 4020" target="blank"><img src="https://img.shields.io/badge/YUNA-MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-### 💖 ```DONAR``` [`Aquí`](https://paypal.me/OficialGD)
------
-* 𝗚𝗮𝘁𝗮𝗕𝗼𝘁 : 𝗕𝗼𝘅𝗠𝗶𝗻𝗲 & 𝗥𝗲𝗽𝗹𝗶𝘁 💛
-> ESTE REPOSITORIO DE GATABOT ES COMPATIBLE CON BOXMINE Y REPLIT.
-* 𝗚𝗮𝘁𝗮𝗕𝗼𝘁 : 𝗧𝗲𝗿𝗺𝘂𝘅 💙
-> SI QUIERE INSTAR POR TERMUX USE [`GataBotMD-Termux`](https://github.com/GataNina-Li/GataBotMD-Termux)
-* 𝗚𝗮𝘁𝗮𝗕𝗼𝘁 : 𝗛𝗲𝗿𝗼𝗸𝘂 💜
-> SI QUIERE INSTAR POR HEROKU USE [`GataBotMD-Heroku`](https://github.com/GataNina-Li/GataBotMD-Heroku)
------
-### 🟣 ACTIVAR EN HEROKU 
-#### ☂️ PARA USUARIOS DE HEROKU 
+### 💖 ```DONAR``` [`Aquí`](https://paypal.me/yunabot)
+
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GataNina-Li/GataBotMD-Heroku) <img src="https://c.tenor.com/OIc0cAei3dwAAAAd/gato-baile.gif" height="32px">
 ### Añada lo siguente al Buildpack: <img src="https://cdn-0.emojis.wiki/emoji-pics/microsoft/backhand-index-pointing-down-microsoft.png" height="32px">
