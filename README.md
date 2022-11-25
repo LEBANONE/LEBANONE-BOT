@@ -1,5 +1,5 @@
 > #### 🚀 Versión actual: 1.3.7
-<a href="http://wa.me/393271166550" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />![e55289088045762c6149ff637b6ff4f2](https://user-images.githubusercontent.com/82735720/204062085-d43fba05-7366-4373-b0f2-ebf47a87fd84.jpg)
+<a href="http://wa.me/393271166550" target="blank"><img src="https://img.shields.io/badge/رقم_مالك_البوت-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />![e55289088045762c6149ff637b6ff4f2](https://user-images.githubusercontent.com/82735720/204062085-d43fba05-7366-4373-b0f2-ebf47a87fd84.jpg)
 
 <p align="higt">   
 <a href="https://github.com/ahmed1p7/YUNA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ahmed1p7/YUNA-MD?label=Forks&color=blue&style=flat-square"></a>
