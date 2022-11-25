@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://photos.app.goo.gl/4dqhEjyE8JnNcL5y8" alt="ANYA-MD" width="900"/>
+<img src="https://imgur.com/a/9DkMFw1" alt="YUNA-MD" width="900"/>
 </p>
 
 <p align="center">
