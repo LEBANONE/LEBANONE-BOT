@@ -30,7 +30,7 @@
 </a>
 
 ### ✅ GATABOT OFICIAL
-<a href="http://wa.me/213674234020?text=hi" target="blank"><img src="https://img.shields.io/badge/YUNA-MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />![e55289088045762c6149ff637b6ff4f2]
+<a href="http://wa.me/+213 674 23 4020" target="blank"><img src="https://img.shields.io/badge/YUNA-MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 ### 💖 ```DONAR``` [`Aquí`](https://paypal.me/OficialGD)
