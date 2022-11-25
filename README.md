@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/WwxBm8o.jpg" alt="ANYA-MD" width="900"/>
+<img src="https://photos.app.goo.gl/4dqhEjyE8JnNcL5y8" alt="ANYA-MD" width="900"/>
 </p>
 
 <p align="center">
