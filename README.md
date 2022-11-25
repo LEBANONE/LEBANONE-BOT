@@ -30,46 +30,11 @@
 <a href="http://wa.me/+213 674 23 4020" target="blank"><img src="https://img.shields.io/badge/YUNA-MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-### 💖 ```DONAR``` [`Aquí`](https://paypal.me/yunabot)
+### 💖 ```تبرع``` [`Aquí`](https://paypal.me/yunabot)
 
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GataNina-Li/GataBotMD-Heroku) <img src="https://c.tenor.com/OIc0cAei3dwAAAAd/gato-baile.gif" height="32px">
-### Añada lo siguente al Buildpack: <img src="https://cdn-0.emojis.wiki/emoji-pics/microsoft/backhand-index-pointing-down-microsoft.png" height="32px">
-```bash
-heroku/nodejs
-```
-```bash
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-```
-```bash
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
------
-- [x] Resultado <details><summary>Buildpack</summary><img src="https://i.imgur.com/t3Xzgnh.jpeg"></details>
------
-
-### ✅ BOXMINEHOST
-> ACTIVA GATABOT 24/7 EN LA PLATAFORMA BOXMINEHOST
-
-<a href="https://boxmineworld.com"><img src="https://i.imgur.com/allAyd4.png" height="125px"></a>
-### BoxMine World
-
-- Pagina Oficial: [`https://boxmineworld.com`](https://boxmineworld.com)
-- Tutorial - Crea una cuenta en la Dashboard: [`https://www.youtube.com/watch?v=ZAwBLuNmIlI`](https://www.youtube.com/watch?v=ZAwBLuNmIlI)
-- Dashboard: [`https://dash.boxmineworld.com`](https://dash.boxmineworld.com)
-- Panel: [`https://panel.boxmineworld.com`](https://panel.boxmineworld.com)
-- Dudas UNICAMENTE SOBRE EL HOST: [`https://discord.gg/84qsr4v`](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
-
-- [x] Resultado <details><summary>Ajustes del Servidor - GataBot-MD</summary><img src="https://i.imgur.com/N0SwvbY.jpeg"></details>
 ------------------
-### ⚡ REPLIT - GATABOT
-[![Deploy](https://img.shields.io/badge/replit_gatabot-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/GataNina-Li/GataBot-MD)
-<a href="https://replit.com/github/GataNina-Li/GataBot-MD"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
-------------------
-- [x] Resultado <details><summary>Importar Repositorio - GataBot-MD</summary><img src="https://i.imgur.com/GQyRnMf.jpg"></details>
-------------------
-### ACTIVAR POR TERMUX  <img src="https://c.tenor.com/HLrXIleGBToAAAAC/transparent-cat.gif" height="30px">
-> ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+### التنشيط بواسطة TERMUX  <img src="https://c.tenor.com/HLrXIleGBToAAAAC/transparent-cat.gif" height="30px">
+> اكتب الأوامر التالية واحدة تلو الأخرى :
 
 ```bash
 termux-setup-storage
@@ -80,8 +45,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y
 pkg install imagemagick -y
 pkg install yarn
-git clone https://github.com/GataNina-Li/GataBotMD-Termux
-cd GataBotMD-Termux
+git clone https://github.com/ahmed1p7/YUNA-MD
+cd YUNA-MD
 yarn install 
 npm install
 npm update
