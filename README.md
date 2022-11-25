@@ -1,9 +1,9 @@
 > #### 🚀 Versión actual: 1.3.7
 
 <p align="higt">   
-<a href="https://github.com/ahmed1p7/YUNA-MD/network/members"><img title="الشوك:" src="https://img.shields.io/github/forks/ahmed1p7/YUNA-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/ahmed1p7/YUNA-MD/watchers"><img title="المشاهدات:" src="https://img.shields.io/github/watchers/ahmed1p7/YUNA-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/ahmed1p7/YUNA-MD/stargazers"><img title="النجوم:" src="https://img.shields.io/github/stars/ahmed1p7/YUNA-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/ahmed1p7/YUNA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ahmed1p7/YUNA-MD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/ahmed1p7/YUNA-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/ahmed1p7/YUNA-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/ahmed1p7/YUNA-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/ahmed1p7/YUNA-MD?label=Stars&color=yellow&style=flat-square"></a>
 </p>
 
 -----
