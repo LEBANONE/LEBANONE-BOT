@@ -108,17 +108,25 @@ En caso que no tenga nada en el terminar puede usar este comando ```cd GataBotMD
 * Cómo puedo hacer el Bot Owner?
 > Debe de ingresar al archivo `config.js` o también [`Aquí`](https://github.com/GataNina-Li/GataBotMD-Termux/blob/master/config.js) luego añadir su número en donde diga `global.owner` Recuerde que requiere de hacer una Bifurcación, puede hacerla [`Aquí`](https://github.com/GataNina-Li/GataBotMD-Termux/fork)
 ----
-### SOBRE GATABOT <img src="https://i.pinimg.com/originals/0e/c9/89/0ec989dde8b5fc0deef4e5b09292b605.gif" height="30px">
+### حول بوت  <img src="https://i.pinimg.com/originals/0e/c9/89/0ec989dde8b5fc0deef4e5b09292b605.gif" height="30px">
 ```bash
-> SOLO AQUÍ SE HACE LAS ACTUALIZACIONES OFICIALES DE GATABOT-MD
-> LA VERSIÓN DEL BOT DETERMINA LAS ACTUALIZACIONES EXISTENTES 
-> EN CASO QUE ENCUENTRES UN ERROR O FALLA ESCRÍBEME AL INSTAGRAM 
-> SI SE PRESENTA ERRORES AL USAR EL BOT USE EL COMANDO /REPORTE PARA QUE LA PROPIETARIA LO SOLUCIONE
-> EL BOT FUNCIONA EN WHATSAPP MESSAGE Y WHATSAPP BUSINESS 
-> SI HACES MODIFICACIONES, POR FAVOR DEJA CREDITOS DEL REPOSITORIO
-> FUNCIONA EL BOT INCLUSO CUANDO EL NÚMERO NO TIENE INTERNET 
-> USAR EL COMANDO /ADD O /SACAR PUEDE HACER QUE EL NÚMERO VAYA AL SOPORTE
-> PUEDE ESTAR HASTA 50 GRUPOS, SI EL NÚMERO ES MAYOR, PUEDE HABER SATURACIÓN 
+> هنا فقط تحديثات YUNA-MD الرسمية
+
+ > يحدد إصدار BOT التحديثات الحالية
+
+ > في حالة العثور على خطأ أو فشل ، اكتب لي 
+
+ > في حالة ظهور أخطاء عند استخدام الروبوت ، استخدم الأمر / تقرير للمالك لحلها
+
+ > يعمل الروبوت على رسالة واتس آب أعمال و اتساب
+
+ > إذا أجريت تعديلات ، فيرجى ترك اعتمادات المستودع
+
+ > يعمل الروبوت حتى عندما لا يكون للرقم إنترنت
+
+ > قد يؤدي استخدام الأمر / إضافة أو / إزالة الأمر إلى انتقال الرقم إلى الدعم
+
+ > يمكن أن تصل إلى 50 مجموعة ، إذا كان العدد أكبر ، فقد يكون هناك تشبع
 ```
 ----
  ### 💠 [`اللغات المتاحة ل < YUNA-MD`](https://github.com/ahmed1p7/YUNA-MD/blob/master/config.js) 
