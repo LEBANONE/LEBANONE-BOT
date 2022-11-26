@@ -121,8 +121,7 @@ En caso que no tenga nada en el terminar puede usar este comando ```cd GataBotMD
 > PUEDE ESTAR HASTA 50 GRUPOS, SI EL NÚMERO ES MAYOR, PUEDE HABER SATURACIÓN 
 ```
 ----
-### 💠 [`اللغات المتاحة ل YUNA-MD`](https://github.com/ahmed1p7/YUNA-MD
- /blob/master/config.js) 
+ ### 💠 [`اللغات المتاحة ل YUNA-MD`](https://github.com/ahmed1p7/YUNA-MD/blob/master/config.js) 
 ### 🌐 الإسبانية 
 ### 🌐 إنجليزي
 ### 🌐 برتغال
