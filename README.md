@@ -121,20 +121,21 @@ En caso que no tenga nada en el terminar puede usar este comando ```cd GataBotMD
 > PUEDE ESTAR HASTA 50 GRUPOS, SI EL NÚMERO ES MAYOR, PUEDE HABER SATURACIÓN 
 ```
 ----
-### 💠 [`IDIOMAS DISPONIBLES PARA GATABOT`](https://github.com/GataNina-Li/GataBot-MD/blob/master/config.js) 
-### 🌐 Español 
-### 🌐 Inglés (English)
-### 🌐 Portugués (Português)
-### 🌐 Indonesio (Bahasa Indonesia)
-### 🌐 Árabe (عرب)
+### 💠 [`اللغات المتاحة ل YUNA-MD`](https://github.com/ahmed1p7/YUNA-MD
+ /blob/master/config.js) 
+### 🌐 الإسبانية 
+### 🌐 إنجليزي
+### 🌐 برتغال
+### 🌐 إندونيسيا
+### 🌐 العربية
 - [x] Ejemplo <details><summary>Idioma</summary><img src="https://i.imgur.com/RMWFgZo.jpeg"></details>
 ----
 
-### 🌟 CREADORA 
+### 🌟  المالك
  
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
 
-### 🌟 DESARROLLADORES
+### 🌟 المطورين 
 
 [![Abiguelreyes75](https://github.com/Abiguelreyes75.png?size=100)](https://github.com/Abiguelreyes75)
 [![DIEGO-OFC](https://github.com/DIEGO-OFC.png?size=100)](https://github.com/DIEGO-OFC)
