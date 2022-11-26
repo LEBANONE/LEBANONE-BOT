@@ -133,7 +133,7 @@ En caso que no tenga nada en el terminar puede usar este comando ```cd GataBotMD
 
 ### 🌟  المالك
  
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+[![ahmed1p7](https://github.com/ahmed1p7.png?size=100)](https://github.com/ahmed1p7) 
 
 ### 🌟 المطورين 
 
