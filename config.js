@@ -7,8 +7,8 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰ 
 global.owner = [
-  [' 393271166550', 'YUNA-𝙈𝘿 💖🐈', true],
-  ['+213674234020', 'YUNA-𝙈𝘿 2 💖🐈', true],
+  [' 393271166550', 'YUNA-𝙈𝘿 ', true],
+  ['3896068765', 'YUNA-𝙈𝘿 2 ', true],
   ['+213 674 23 40 20', 'YUNA-𝙈𝘿 3 💖🐈', true],
 
   ['+213 674 23 40 20'] 
