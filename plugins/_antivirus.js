@@ -1,7 +1,7 @@
 let handler = m => m
 
 handler.all = async function (m, { isBotAdmin }) {
-// borrado automático cuando hay un mensaje que no se puede ver en el escritorio | auto clear ketika terdapat pesan yang tidak dapat dilihat di wa desktop 
+// المسح التلقائي عند وجود رسالة لا يمكن رؤيتها على سطح المكتب | السيارات واضحة ketika terdapat وزن يانغ tidak dapat dilihat di wa desktop 
 if (m.messageStubType === 68) {
 let log = {
 key: m.key,
