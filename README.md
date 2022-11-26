@@ -17,8 +17,9 @@
 </p> 
 
 [![blog](https://img.shields.io/badge/YUNA-MD-Update-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/IxeB9yBYrNp85CLmKykmMM) <a href="https://chat.whatsapp.com/KSgHcPpZiXV7fMAscoptfw"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px">
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=3000&pause=1000&color=34F6F7&center=falso&vCenter=falso&width=435&lines=%C3%9Anete+y+Conoce+las+%C3%9Altimas+Novedades!!)](https://git.io/typing-svg)
+)](https://chat.whatsapp.com/IxeB9yBYrNp85CLmKykmMM)
+ 
+ 
 </a>
 
 ### ❇️ المجموعات الرسمية 
